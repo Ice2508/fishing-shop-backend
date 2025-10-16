@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tracks",
+  "info": {
+    "singularName": "track",
+    "pluralName": "tracks",
+    "displayName": "track"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "order_number": {
+      "type": "string",
+      "default": "''",
+      "maxLength": 30
+    },
+    "order_track": {
+      "type": "string",
+      "default": "''",
+      "maxLength": 30
+    }
+  }
+}
