@@ -44,6 +44,9 @@
     },
     "characteristics": {
       "type": "json"
+    },
+    "variants": {
+      "type": "json"
     }
   }
 }
